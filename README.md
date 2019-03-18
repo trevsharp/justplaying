@@ -1,4 +1,4 @@
-# Hello GITHUB
+# Everything is GITHUB
 
 Strange update
 
